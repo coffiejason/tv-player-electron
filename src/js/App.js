@@ -26,7 +26,7 @@ import {
 import * as helpers from "./utils/helpers";
 // import demoVideo2 from "./assets/3000kbs_starbucks.mp4";
 //import demoVideo from "./assets/aautv_05.mp4";
-import "./App.css";
+import "./index.css";
 import { SkeletonTheme } from "react-loading-skeleton";
 import "react-loading-skeleton/dist/skeleton.css";
 
